@@ -1,0 +1,11 @@
+C:\dev\digitrade-2018\object-oriented-programming\OOHarjoitukset\Kissaohjelma\obj\Debug\netcoreapp2.1\Kissaohjelma.csprojAssemblyReference.cache
+C:\dev\digitrade-2018\object-oriented-programming\OOHarjoitukset\Kissaohjelma\obj\Debug\netcoreapp2.1\Kissaohjelma.csproj.CoreCompileInputs.cache
+C:\dev\digitrade-2018\object-oriented-programming\OOHarjoitukset\Kissaohjelma\obj\Debug\netcoreapp2.1\Kissaohjelma.AssemblyInfoInputs.cache
+C:\dev\digitrade-2018\object-oriented-programming\OOHarjoitukset\Kissaohjelma\obj\Debug\netcoreapp2.1\Kissaohjelma.AssemblyInfo.cs
+C:\dev\digitrade-2018\object-oriented-programming\OOHarjoitukset\Kissaohjelma\bin\Debug\netcoreapp2.1\Kissaohjelma.deps.json
+C:\dev\digitrade-2018\object-oriented-programming\OOHarjoitukset\Kissaohjelma\bin\Debug\netcoreapp2.1\Kissaohjelma.runtimeconfig.json
+C:\dev\digitrade-2018\object-oriented-programming\OOHarjoitukset\Kissaohjelma\bin\Debug\netcoreapp2.1\Kissaohjelma.runtimeconfig.dev.json
+C:\dev\digitrade-2018\object-oriented-programming\OOHarjoitukset\Kissaohjelma\bin\Debug\netcoreapp2.1\Kissaohjelma.dll
+C:\dev\digitrade-2018\object-oriented-programming\OOHarjoitukset\Kissaohjelma\bin\Debug\netcoreapp2.1\Kissaohjelma.pdb
+C:\dev\digitrade-2018\object-oriented-programming\OOHarjoitukset\Kissaohjelma\obj\Debug\netcoreapp2.1\Kissaohjelma.dll
+C:\dev\digitrade-2018\object-oriented-programming\OOHarjoitukset\Kissaohjelma\obj\Debug\netcoreapp2.1\Kissaohjelma.pdb
