@@ -1,0 +1,4 @@
+C:\dev\digitrade-2018\object-oriented-programming\KirjaLuokka\KirjaLuokka\KirjaLuokka\obj\Debug\netcoreapp2.1\KirjaLuokka.csprojAssemblyReference.cache
+C:\dev\digitrade-2018\object-oriented-programming\KirjaLuokka\KirjaLuokka\KirjaLuokka\obj\Debug\netcoreapp2.1\KirjaLuokka.csproj.CoreCompileInputs.cache
+C:\dev\digitrade-2018\object-oriented-programming\KirjaLuokka\KirjaLuokka\KirjaLuokka\obj\Debug\netcoreapp2.1\KirjaLuokka.AssemblyInfoInputs.cache
+C:\dev\digitrade-2018\object-oriented-programming\KirjaLuokka\KirjaLuokka\KirjaLuokka\obj\Debug\netcoreapp2.1\KirjaLuokka.AssemblyInfo.cs
